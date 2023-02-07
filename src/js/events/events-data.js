@@ -1,4 +1,4 @@
-// Auto Generated on 2023-02-06T13:28:43.490Z
+// Auto Generated on 2023-02-07T13:21:50.677Z
  module.exports = [
   {
     "event": {
@@ -68,14 +68,14 @@
   },
   {
     "event": {
-      "title": "Calum Simpson - ChatGPT: Practical applications for AI ",
-      "description": "In March we'll have Calumn Simpson from SSW speaking about practical applications of AI and Chat GPT",
+      "title": "Calum Simpson - Practical applications for GPT3",
+      "description": "In March we'll have Calum Simpson from SSW speaking about the practical applications of GPT3.\n\n**Sponsors:**\nSSW\nSaphi Engineering\n\n**Agenda:**\n5:45 - Doors Open\n6:15 - News\n6:30 - Calum Simpson\n7:30 - Dinner + Drinks\n\n**About Calum**:\nCalum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, Dynamics 365/Power Platform, C# .NET, plus experience in Angular and React.\nHe has over 8 years of experience working on web projects of various sizes ranging from a 2-person start up to one of the largest companies in Australia.\nAside from developing web projects, he is also interested in electrical engineering and financial quantitative analysis.",
       "dateTime": "2023-03-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510464371/676x380.webp",
       "venue": {
         "name": "SSW Newcastle - Enterprise Software Development",
         "lat": -32.926857,
