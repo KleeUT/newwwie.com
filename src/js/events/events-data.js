@@ -1,9 +1,9 @@
-// Auto Generated on 2023-03-19T13:18:26.945Z
+// Auto Generated on 2023-03-20T13:23:11.069Z
  module.exports = [
   {
     "event": {
-      "title": " Silvanus Matiku",
-      "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
+      "title": "iview - Behind  the scenes - Silvanus Matiku",
+      "description": "This month we have Silvanus Matiku from the ABC iView team speaking about the architecture of the iView streaming service.\nThis session promises to be a great view of how an Australian institution manages its streaming architecture.\n\nMore details to come.",
       "dateTime": "2023-04-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782120",
       "going": 1,
