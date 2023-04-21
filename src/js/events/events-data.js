@@ -1,4 +1,4 @@
-// Auto Generated on 2023-04-20T13:17:53.696Z
+// Auto Generated on 2023-04-21T13:16:45.637Z
  module.exports = [
   {
     "event": {
@@ -66,7 +66,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming event on May 4th, where we'll be delving into the world of automated temperature monitoring systems with local startup & success story Thermalog.\n\nPassionate about revolutionizing food safety using IoT, Abid aims to provide businesses with affordable, accurate, and reliable temperature monitoring systems. By embracing IoT technologies, he aims to increase efficiency, productivity, and compliance with health safety guidelines across the industry.\n\n**About the Speaker:**\nAbid Khan is a solution-oriented Mechatronics Engineer from the University of Newcastle, Australia, focusing on designing, prototyping and pursuing innovative ideas. His expertise includes Business Development, Product Design, and Embedded Systems. Abid is committed to bringing positive change to all his business stakeholders and working for the benefit of society and the environment.\n\nHaving spent approximately ten years in Australia, Abid has honed his entrepreneurial skills while pursuing his academic objectives. As the founder of Thermalog, he has played a pivotal role in developing automated time and temperature monitoring devices for temperature-sensitive food storage. These IoT devices are now utilized worldwide, from local shops to international enterprises, assisting businesses in reducing costs, ensuring food safety compliance, and streamlining operations.\n\nIn addition to his work at Thermalog, Abid has been involved in numerous extracurricular activities, including participating in the NU Racing team and serving as an International Student Convenor.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2023-05-04T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/293006871",
-      "going": 5,
+      "going": 6,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512222823/676x380.webp",
