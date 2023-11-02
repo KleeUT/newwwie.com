@@ -1,38 +1,5 @@
-// Auto Generated on 2023-11-01T13:16:11.568Z
+// Auto Generated on 2023-11-02T13:16:23.732Z
  module.exports = [
-  {
-    "event": {
-      "title": "General Networking (home automation, general IoT updates etc.)",
-      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 2nd of November, where we'll be hosting an open discussion and networking event focused on multiple IoT topics.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
-      "dateTime": "2023-11-02T18:30+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/297063491",
-      "going": 10,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516960625/676x380.webp",
-      "venue": {
-        "name": "Stag & Hunter Hotel",
-        "lat": -32.897324,
-        "lng": 151.73674,
-        "address": "187 Maitland Rd",
-        "city": "Mayfield"
-      }
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up - Setting yourself up for leadership Panel Event",
