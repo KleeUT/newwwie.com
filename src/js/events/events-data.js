@@ -1,38 +1,5 @@
-// Auto Generated on 2024-04-02T13:14:58.053Z
+// Auto Generated on 2024-04-03T13:16:20.974Z
  module.exports = [
-  {
-    "event": {
-      "title": "April: Andrew Goodwin: Building a time series database",
-      "description": "In April we'll be back with Andrew Goodwin talking about the time series database that he's been developing for the last 9 years. This database been a core part of his work with The Hospital for Sick Children and lead to Andrew being awarded a PhD from the University of Sydney in 2023.\n\nThis talk promises to highlight how deep technical knowledge can lead to helping real people in the real world. Join us at Mudbath Newcastle on Wednesday April 3 to learn more.\n\nWe'd like to thank our sponsors.\n\n* [Saphi Engineering](https://saphi.engineering/)\n* [Mudbath](https://www.mudbath.com.au/)\n* [Newy Tech people](https://newytechpeople.com.au/)\n\nTickets are on sale for the ../NEW conference. They're selling fast find the program at https://slashnew.tech/program and tickets at https://slashnew.tech/",
-      "dateTime": "2024-04-03T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305515",
-      "going": 24,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Mudbath Digital ",
-        "lat": -32.92607,
-        "lng": 151.7626,
-        "address": "8/710 Hunter st",
-        "city": "Newcastle "
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "When Machine Vision and IoT come together",
@@ -105,7 +72,7 @@
       "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices or large scale API consumption or maybe even both. More details to come",
       "dateTime": "2024-05-01T19:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
